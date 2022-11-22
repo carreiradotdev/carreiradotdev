@@ -20,10 +20,10 @@ I love Blockchain and Web3 related products.
 	<a href="https://github.com/carreiradotdev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/carreiradotdev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/welearnedtotalk/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/welearnedtotalk"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/welearnedtotalk"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 </p>
 
 -----
 Credits: [Nikunj Sharma](https://github.com/nouveau-riche)
 
-Last Edited on: 26/09/2022
+Last Edited on: 22/11/2022
