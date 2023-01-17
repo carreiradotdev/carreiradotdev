@@ -7,7 +7,6 @@ I love Blockchain and Web3 related products.
 - 👯 I’m looking to collaborate on projects that are using Blockchain.
 - 🌱 I’m currently on the 1st year of my Master's Degree in Informatics Engineering.
 - 📫 How to reach me: carreira.com.pt/
-- 😄 Pronouns: He/Him
 
  ### ⭐ GitHub Stats
 
