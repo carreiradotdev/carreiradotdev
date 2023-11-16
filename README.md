@@ -1,7 +1,7 @@
 
 ## Hi, I am Francisco! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> It's a pleasure to meet you.
 
-I love Blockchain and Web3 related products.
+I love Blockchain related products.
 
 ⚡ Fun Facts:
 - 👯 I’m looking to collaborate on projects that are using Blockchain.
